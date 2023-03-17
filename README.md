@@ -8,7 +8,7 @@ This guide is a really helpful and complete kickstart in how to use Vim/Neovim
 
 Back in the days, computers weren't that advanced as nowdays. Programmers didn't have IDE's to work with their codes and the auto-complete functionality was a dream away.
 
-In order to work with code, they had to work use Vi, which is a ancient code editor that makes use of the terminal. Here's an image of Vi:
+In order to work with code, they had to use Vi, which is a ancient code editor that makes use of the terminal. Here's an image of Vi:
 
 ![Vi in a really old computer.](https://i.imgur.com/C8jYSgX.png)
 
