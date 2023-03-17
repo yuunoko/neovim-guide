@@ -1,6 +1,8 @@
 # Neovim Setup Guide
 
-This guide is a really helpful kickstart in how to use Vim/Neovim and 
+This guide is a really helpful and complete kickstart in how to use Vim/Neovim
+
+![Neovim Logo](https://i.imgur.com/P8AtcKX.jpeg)
 
 ## What is Vim/Neovim? A brief history about ancient code editors.
 
