@@ -1,4 +1,4 @@
-# Neovim Setup Guide
+# Vim/Neovim Guide
 
 This guide is a really helpful and complete kickstart in how to use Vim/Neovim
 
@@ -124,7 +124,7 @@ Scroll to the end of the file and paste the theme you picked right after the com
 
 ![This is a alt text.](https://i.imgur.com/xQX1zeZ.gif)
 
-Go to Color scheme and the theme will be there. If it's not, probably have got something wrong.
+Go to Color scheme and the theme will be there. If it's not, you probably had got something wrong.
 
 ## For Linux Users
 
