@@ -32,7 +32,7 @@ If you use Visual Studio Code and want to use Vim/Neovim, don't do that. Instead
 
 In order to make Linux terminals work on Windows, you should take knowledge of WSL (Windows Subsystem for Linux). Quoting Microsoft FAQ's:
 
-> WSL is for anyone who likes using Bash, common Linux tools (sed, awk, etc.) and Linux-first frameworks (Ruby, Python, etc.) but also enjoys using Windows productivity tools.
+> O WSL (Subsistema do Windows para Linux) permite que os desenvolvedores instalem uma distribuição do Linux (como Ubuntu, OpenSUSE, Kali, Debian, Arch Linux etc) e usem aplicativos, utilitários e ferramentas de linha de comando bash do Linux diretamente no Windows, sem modificação, sem a sobrecarga de uma máquina virtual tradicional ou configuração dualboot.
 
 You should also enable virtualization on your machine.
 
