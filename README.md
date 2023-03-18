@@ -165,4 +165,6 @@ Once you got in there, export the path by adding this line to the file:
 
 Note that you should change `{user}` to the current user you are using.
 
+Now, run `lvim` in the command line and wait all the things to install.
+
 ![LunarVim](https://i.imgur.com/1oq4sTP.gif)
