@@ -135,6 +135,10 @@ Go to Color scheme and the theme will be there. If it's not, you probably had go
 
 ![Changing theme](https://i.imgur.com/27OIwEy.gif)
 
+## Installing Plugins
+
+
+
 ## Installing LunarVim
 
 In Neovim, you can install any plugins you want and make your IDE, but is a litte complicate to get things working properly. Instead, you can install a complete IDE layer for Neovim, like LunarVim.
@@ -168,3 +172,29 @@ Note that you should change `{user}` to the current user you are using.
 Now, run `lvim` in the command line and wait all the things to install.
 
 ![LunarVim](https://i.imgur.com/1oq4sTP.gif)
+
+## How to use Vim/Neovim
+
+You just installed Vim/Neovim, but you don't know how to use. Luckly, there are some things that can help you learn to use it.
+
+First, I highly recommend you to run `nvim` (or `lvim`) and type `:Tutor`. This will open the user manual of Vim. But at the end is a little complicated to remember everything so you need a lot of pratice.
+
+![Neovim Tutorial](https://i.imgur.com/eH1UIlO.gif)
+
+To get you ready for using Vim, you need to learn the basics concepts of it.
+
+###### Moving the cursor
+
+To move the cursor, press the h,j,k,l keys as indicated.
+
+![HJKL](https://i.imgur.com/DDq4WCS.png)
+
+###### Exiting Vim
+
+Hit the keys `Shift` + `z` + `q` to exit without saving anything, or `Shift` + `z` + `z` to exit saving everything.
+
+###### Deleting
+
+Delete an entire line by hitting the key `d` twice. You can also delete the letter your cursor is currently in by pressing `x` once.
+
+###### Understanding Vim Modes
