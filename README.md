@@ -192,9 +192,3 @@ To move the cursor, press the h,j,k,l keys as indicated.
 ###### Exiting Vim
 
 Hit the keys `Shift` + `z` + `q` to exit without saving anything, or `Shift` + `z` + `z` to exit saving everything.
-
-###### Deleting
-
-Delete an entire line by hitting the key `d` twice. You can also delete the letter your cursor is currently in by pressing `x` once.
-
-###### Understanding Vim Modes
