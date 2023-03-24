@@ -27,7 +27,7 @@ You might be thinking: Why not just to use a working IDE's such as Visual Studio
 
 Vim makes you really fast on writing code. Once you try, you don't wanna go back. And you can develop anything you want from it, because at the end of the day every code is just text.
 
-If you use Visual Studio Code and want to use Vim, there's actually an extension in Visual Studio Code that simulates Vim on it. Go try it.
+If you use Visual Studio Code and want to use Vim, there's actually [an extension](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) in Visual Studio Code that simulates Vim on it. Go try it.
 
 ## For Windows Users: Configuring WSL
 
@@ -67,7 +67,7 @@ If you hit these keys with Caps Lock activated, it will not work. The reason is 
 
 ### Running Arch Distro on WSL
 
-To install a Arch-based WSL on your machine, access the [Arch WSL](https://markdownlivepreview.com/). 
+To install a Arch-based WSL on your machine, access the [Arch WSL](https://markdownlivepreview.com/) github repo.
 
 Find the Releases page and download `Arch.zip`. Now, extract the zip file and put all content in a new folder. Put that folder somewhere in your disk (e.g I've put mine in C:\ ). Now with PowerShell or CMD, go to the location you have put the folder and just simply run `arch` on the command line.
 
@@ -131,17 +131,19 @@ Scroll to the end of the file and paste the theme you picked right after the com
 
 ![This is a alt text.](https://i.imgur.com/xQX1zeZ.gif)
 
-Go to Color scheme and the theme will be there. If it's not, you probably had got something wrong.
+Go to `Color scheme` and the theme will be there. If it's not, you probably had got something wrong.
 
 ![Changing theme](https://i.imgur.com/27OIwEy.gif)
 
 ## Installing Plugins
 
+You can of course install plugins from scratch by your own.
 
+[ThePrimeagen](https://youtu.be/w7i4amO_zaE)
 
-## Installing LunarVim
+## Installing an IDE on Neovim
 
-In Neovim, you can install any plugins you want and make your IDE, but is a litte complicate to get things working properly. Instead, you can install a complete IDE layer for Neovim, like LunarVim.
+With Neovim, you can install a complete IDE layer for Neovim, like LunarVim.
 
 [LunarVim](https://www.lunarvim.org/) is not an actual IDE. It's just a bunch of plugins packed and pre-configured that makes your life easier.
 
