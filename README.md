@@ -35,7 +35,9 @@ In order to make Linux terminals work on Windows, you should take knowledge of W
 
 > The Windows Subsystem for Linux (WSL) lets developers install a Linux distribution (such as Ubuntu, OpenSUSE, Kali, Debian, Arch Linux, etc) and use Linux applications, utilities, and Bash command-line tools directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.
 
-You should also enable virtualization on your machine.
+You should also enable virtualization on your machine. Make sure WSL feature is enabled on your system by going into the "Turn Windows features on or off" settings. Go all the way down and check "Windows Subsystem for Linux", like this:
+
+![](https://i.imgur.com/eLHvUNx.png)
 
 ### Running Debian Distro on WSL
 
