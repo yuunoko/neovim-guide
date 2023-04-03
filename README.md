@@ -177,6 +177,10 @@ Now, run `lvim` in the command line and wait all the things to install.
 
 ![LunarVim](https://i.imgur.com/1oq4sTP.gif)
 
+However, I made a game in neovim with Lua programming language that can help you improve your abilities on using neovim. You can find it here.
+
+But if you don't wanna learn by a really fun game, you can just learn the basics below.
+
 ## How to use Vim/Neovim
 
 You just installed Vim/Neovim, but you don't know how to use. Luckly, there are some things that can help you learn to use it.
@@ -235,3 +239,15 @@ You can replace any letter by hitting `r` and putting the letter you want.
 In this mode, you can run any commands like `:Tutor` from earlier. But you can also run terminal commands by typing `:!` and put whatever terminal command you would like to run.
 
 You can also search any word by hitting `/` and put whatever word you want to search to.
+
+You made it. Now that you know the basics, you can start to improve your capabilities.
+
+### Moving Vertically
+
+You can press any numbers on your keyboard and press `j` to go down based on the relative line number or `k` to go up, line this:
+
+![Insert Gif Here]()
+
+### Moving Horizontally
+
+###
