@@ -89,7 +89,7 @@ Now if you run `su {username}` you should login as the user you just created.
 
 ![Ubuntu, username and password](https://i.imgur.com/SuwkQxP.gif)
 
-Exit the Arch WSL by running `exit` and go back to PowerShell or CMD. Go back to the Arch folder directory and run:
+Exit the Arch WSL by running `exit` and go back to PowerShell (or CMD if PowerShell just throw you erros). Go back to the Arch folder directory and run:
 
 `Arch.exe config --default-user {username}`
 
@@ -171,7 +171,7 @@ Once you got in there, export the path by adding this line to the file:
 
 `export PATH=$PATH:/home/{user}/.local/bin:$PATH`
 
-Note that you should change `{user}` to the current user you are using.
+Note that you should change `{user}` to the current user you are using on your Arch installation.
 
 Now, run `lvim` in the command line and wait all the things to install.
 
@@ -250,4 +250,4 @@ You can press any numbers on your keyboard and press `j` to go down based on the
 
 ### Moving Horizontally
 
-###
+One helpful horizontal moviment is to press `t` and whatever character you want the cursor to stand before it.
