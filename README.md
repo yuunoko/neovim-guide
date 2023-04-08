@@ -177,6 +177,8 @@ Now, run `lvim` in the command line and wait all the things to install.
 
 ![LunarVim](https://i.imgur.com/1oq4sTP.gif)
 
+If you want your LunarVim background transparent, just press `c` for configuration at the start screen of LunarVim (the dashboard) add `lvim.transparent_window = true` line on the file and save it.
+
 However, I made a game in neovim with Lua programming language that can help you improve your abilities on using neovim. You can find it here.
 
 But if you don't wanna learn by a really fun game, you can just learn the basics below.
