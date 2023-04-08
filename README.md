@@ -253,3 +253,5 @@ You can press any numbers on your keyboard and press `j` to go down based on the
 ### Moving Horizontally
 
 One helpful horizontal moviment is to press `t` and whatever character you want the cursor to stand before it.
+
+You can also press any number and `w` to go foward and `b` to go backwards. As you see, it goes x words to the direction you want.
