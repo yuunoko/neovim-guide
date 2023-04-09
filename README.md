@@ -181,10 +181,6 @@ If you want your LunarVim background transparent, just press `c` for configurati
 
 I also highly recommend to enable relative line numbers, by adding `vim.opt.relativenumber = true` to the same config file.
 
-However, I made a game in neovim with Lua programming language that can help you improve your abilities on using neovim. You can find it here.
-
-But if you don't wanna learn by a really fun game, you can just learn the basics below.
-
 ## How to use Vim/Neovim
 
 You just installed Vim/Neovim, but you don't know how to use. Luckly, there are some things that can help you learn to use it.
