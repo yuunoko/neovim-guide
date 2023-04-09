@@ -179,6 +179,8 @@ Now, run `lvim` in the command line and wait all the things to install.
 
 If you want your LunarVim background transparent, just press `c` for configuration at the start screen of LunarVim (the dashboard) add `lvim.transparent_window = true` line on the file and save it.
 
+I also highly recommend to enable relative line numbers, by adding `vim.opt.relativenumber = true` to the same config file.
+
 However, I made a game in neovim with Lua programming language that can help you improve your abilities on using neovim. You can find it here.
 
 But if you don't wanna learn by a really fun game, you can just learn the basics below.
@@ -248,10 +250,30 @@ You made it. Now that you know the basics, you can start to improve your capabil
 
 You can press any numbers on your keyboard and press `j` to go down based on the relative line number or `k` to go up, line this:
 
-![Insert Gif Here]()
+![Relative line numbers movement](https://i.imgur.com/BNSeqwt.gif)
 
 ### Moving Horizontally
 
-One helpful horizontal moviment is to press `t` and whatever character you want the cursor to stand before it.
+One helpful horizontal movement is to press `t` and whatever character you want the cursor to stand before it.
 
 You can also press any number and `w` to go foward and `b` to go backwards. As you see, it goes x words to the direction you want. But you don't wanna count the words you have to go, so we can afford to other methods.
+
+
+![Word by word movement](https://i.imgur.com/Xdp1VYH.gif)
+
+## LunarVim features
+
+### Terminals
+
+By hitting `Alt` + `1` you will open a new terminal. You can press any number you want up to 9.
+
+### File Explorer
+
+Just hit `Space` + `e` and you will open the file explorer. To move between the file explorer and your file, just hit `Ctrl` + `h` or `l`. The same words for up and down, respectivily `k` and `j`.
+
+To create a new file, just hit `a`. You will see a prompt asking for the name of the folder or the file. If you want a folder, type the name of the folder and add `/` to the end. If you want a file, you leave it empty and make sure your file has a file extension like `.js` or `.rs`.
+
+To go back to the dashboard screen, hit `Space` + `;`.
+
+That's it. Now, you know all the basics of Vim/Neovim and LunarVim.
+
