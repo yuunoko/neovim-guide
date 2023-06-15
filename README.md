@@ -69,7 +69,7 @@ If you hit these keys with Caps Lock activated, it will not work. The reason is 
 
 ### Running Arch Distro on WSL
 
-To install a Arch-based WSL on your machine, access the [Arch WSL](https://markdownlivepreview.com/) github repo.
+To install a Arch-based WSL on your machine, access the [Arch WSL](https://github.com/yuk7/ArchWSL) github repo.
 
 Find the Releases page and download `Arch.zip`. Now, extract the zip file and put all content in a new folder. Put that folder somewhere in your disk (e.g I've put mine in C:\ ). Now with PowerShell or CMD, go to the location you have put the folder and just simply run `arch` on the command line.
 
